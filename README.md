@@ -23,7 +23,7 @@ Key Features:
 
 4. Prediction Modes:
 
-- Interactive Mode: Accepts individual customer details through terminal input and predicts churn likelihood.
+- Interactive Mode: Accepts individual customer and dataset details through terminal input and predicts churn likelihood.
 
 5. Applications:
 
